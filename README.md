@@ -7,6 +7,8 @@
 
 ### How do I get set up? ###
 
+* Install Python
+
 * Setup
 	
 	1. Open Terminal
@@ -25,6 +27,7 @@
  			* Debugger PIN: 207-655-937
 		
 			Note the address server is running on, in above case it is --> http://127.0.0.1:5000/
+
 * Converting CSV to JSON
 	
 	1. Open Browser
